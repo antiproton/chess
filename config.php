@@ -7,11 +7,11 @@
 $botty = false; #true
 
 #Path
-$bot_path = "C:/xampp/htdocs/chess";
+$bot_path = "C:/xampp/htdocs/GitHub/chess";
 
 
 #Url
-$bot_url="http://localhost/brett1";
+$bot_url="http://localhost/GitHub/chess/bot";
 
 
 # Nach der Wartezeit ist die Partie wieder frei
