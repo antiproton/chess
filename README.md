@@ -14,6 +14,8 @@ Draw offered.
 
 Give up.
 
+Move with sound.
+
 Send messages.
 
 Elo player statistics.
