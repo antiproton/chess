@@ -18,6 +18,6 @@ The Schachbot was programmed by John Shedletsky.
 
 *Elo player statistics.
 
-it works #
+it works!
                  
                  Have fun
