@@ -1,4 +1,4 @@
-chess
+Chess
 =====
 
 Play online chess
