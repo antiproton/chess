@@ -8,15 +8,15 @@ Upload and play.
 No database. The program is based on chessboard.js, Ajax and PHP.
 The Schachbot was programmed by John Shedletsky.
 
-Time control.
+*Time control.
 
-Draw offered.
+*Draw offered.
 
-Give up.
+*Give up.
 
-Send messages.
+*Send messages.
 
-Elo player statistics.
+*Elo player statistics.
 
 it works #
                  
